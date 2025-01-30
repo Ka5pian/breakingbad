@@ -106,8 +106,8 @@ cargoAcceptance:
 - VENG
 - VPTS
 cargoProduction:
-- ENSP
 - FMSP
+- ENSP
 - VEHI
 colour: 141
 fundCostMultiplier: 145
